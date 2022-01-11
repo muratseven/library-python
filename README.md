@@ -30,7 +30,7 @@ ER-DIAGRAM
 <div align="center">
     <tr>
     <a>
-       <img src="docs/assets/er-diagram.png" alt="erdiagram" height="200"width="400px" />
+       <img src="docs/assets/er-diagram.png" alt="erdiagram" height="400"width="1000px" />
         </tr>
 </div>
 
@@ -39,7 +39,7 @@ ENTITY AND RELATIONSHIPS SETS DIAGRAM
 <div align="center">
     <tr>
     <a>
-<img src="docs/assets/entity-and-relationships-diagram.png" alt="ersd" height="200"width="400px" />
+<img src="docs/assets/entity-and-relationships-diagram.png" alt="ersd" height="500"width="1000px" />
         </tr>
 </div>
 
