@@ -1,13 +1,16 @@
 # Library Database System
 This open source project includes the database system of a library and an interface written in Python.
 
-> INTRODUCTION
-It is desirable design a database for a library. The director and staff working in the library are responsible for the library. Each member individual information and book information is kept. The maneger makes the process of adding books, deleting books, updating in a personnel information, checking all personnel. The staff member can view the member information so they can access the member information. This database also contains polarity information , personnel data of members, books and outhor information received by the member.
+INTRODUCTION
 
-> WHO USES THIS DATABASE?
-Manager and personnels uses this database and so that he or she can observe everything about library. Employees can buy books and give a book to members.
+> It is desirable design a database for a library. The director and staff working in the library are responsible for the library. Each member individual information and book information is kept. The maneger makes the process of adding books, deleting books, updating in a personnel information, checking all personnel. The staff member can view the member information so they can access the member information. This database also contains polarity information , personnel data of members, books and outhor information received by the member.
 
-> LIBRARY BUSINESS RULES
+WHO USES THIS DATABASE?
+
+> Manager and personnels uses this database and so that he or she can observe everything about library. Employees can buy books and give a book to members.
+
+LIBRARY BUSINESS RULES
+
 1. The library is managed by the principal.
 2. Personnel are supervised by the principal.
 3. The library has different expenses.
@@ -23,14 +26,14 @@ Manager and personnels uses this database and so that he or she can observe ever
 13. Each member can only receive more than on book.
 14. A member who is punished in the library cannot get a book again.
 
-> ER-DIAGRAM
+ER-DIAGRAM
 <img src="docs/assets/er-diagram.png" alt="erdiagram" height="200"width="400px" />
 
 
-> ENTITY AND RELATIONSHIPS SETS DIAGRAM
+ENTITY AND RELATIONSHIPS SETS DIAGRAM
 <img src="docs/assets/entity-and-relationships-diagram.png" alt="ersd" height="200"width="400px" />
 
-> NORMALIZATION
+NORMALIZATION
 
 • Normalization has two main objectives. To eliminate data repetitions in the database and to increase data consistency (accuracy).
 • Normalization is the best solution to avoid data duplication and data inconsistency. In order to use our data more efficiently and comprehensively, we should design our databases with normalization forms.
