@@ -27,11 +27,22 @@ LIBRARY BUSINESS RULES
 14. A member who is punished in the library cannot get a book again.
 
 ER-DIAGRAM
-<img src="docs/assets/er-diagram.png" alt="erdiagram" height="200"width="400px" />
+<div align="center">
+    <tr>
+    <a>
+       <img src="docs/assets/er-diagram.png" alt="erdiagram" height="200"width="400px" />
+        </tr>
+</div>
 
 
 ENTITY AND RELATIONSHIPS SETS DIAGRAM
+<div align="center">
+    <tr>
+    <a>
 <img src="docs/assets/entity-and-relationships-diagram.png" alt="ersd" height="200"width="400px" />
+        </tr>
+</div>
+
 
 NORMALIZATION
 
